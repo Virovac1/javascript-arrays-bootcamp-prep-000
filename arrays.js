@@ -40,4 +40,4 @@ array.shift();
 return array;
 }
 
-function
+function destructivelyRemoveElementFromBeginningOfArray ()
