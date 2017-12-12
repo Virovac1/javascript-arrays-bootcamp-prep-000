@@ -27,7 +27,7 @@ var newArray= arr1.concat(arr2);
 return newArray;
 }
 
-function destructivelyAddElementToEndOfArray (array,element){
+function destructivelyAddElementToEndOfArray(array,element){
 array.push(element);
 return array 
 }
