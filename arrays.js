@@ -18,8 +18,6 @@ array.unshift(element);
 return array
 }
 
-// may want too  use concat for add element
-
  function addElementToEndOfArray(array,element){
 var arr1= array;
 var arr2= [element]; 
