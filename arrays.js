@@ -40,7 +40,7 @@ array.shift();
 return array;
 }
 
-function destructivelyRemoveElementFromBeginningOfArray(){
+function destructivelyRemoveElementFromBeginningOfArray(array){
   
 }
   
