@@ -7,7 +7,7 @@ var chocolateBars = ["snickers", "hundred grand","kitkat","skittles"];
 function addElementToBeginningOfArray (array,element){
 var var1= array 
 
-var var2= []  // this to put element into form of an array
+var var2= [toString(`${element}`)]  // this to put element into form of an array
 
 var newArray=
 
