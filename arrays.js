@@ -42,7 +42,7 @@ return array;
 
 function RemoveElementFromBeginningOfArray(array){
   array.slice(1);
-  array;
+  return array;
 }
   
 }
