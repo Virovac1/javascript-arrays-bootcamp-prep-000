@@ -33,6 +33,8 @@ return array
 }
 
 // accept an array and an index and return the element at that index.
-function accessElementInArray()
+function accessElementInArray(array,index){
+  
+}
 
 
