@@ -20,8 +20,16 @@ return array
 
 // may want too  use concat for add element
 
- function addElementToEndOfArray()
- {}
- 
- 
- function destructivelyAddElementToEndOfArray
+ function addElementToEndOfArray(array,element){
+var arr1= array;
+var arr2= [element]; 
+var newArray= arr1.concat(arr2);
+return newArray;
+}
+
+function destructivelyAddElementToEndOfArray (array,elemen){
+  
+}
+
+
+
