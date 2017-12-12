@@ -32,9 +32,10 @@ return array
 
 // accept an array and an index and return the element at that index.
 function accessElementInArray(array,index){
-return array[index]
+return array[index];
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array){
-array.shift()
+array.shift();
+return array;
 }
