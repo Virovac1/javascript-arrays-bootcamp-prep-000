@@ -35,4 +35,7 @@ function accessElementInArray(array,index){
 return array[index]
 }
 
-
+function destructivelyAddElementToEndOfArray(array,element){
+array.(element);
+return array 
+}
