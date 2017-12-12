@@ -6,7 +6,7 @@ var chocolateBars = ["snickers", "hundred grand","kitkat","skittles"];
 //does not alter original array,returns a new one
 function addElementToBeginningOfArray (array,element){
 var arr1= array;
-var arr2= [toString(`${element}`)];  // this to put element into form of a string in the array
+var arr2= [(`${element}`)];  // this to put element into form of a string in the array
 var newArray= arr1.concat(arr2);
 return newArray;
 }
