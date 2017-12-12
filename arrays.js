@@ -20,3 +20,6 @@ return array
 
 // may want too  use concat for add element
 
+ function addElementToEndOfArray
+ 
+ function destructivelyAddElementToEndOfArray
