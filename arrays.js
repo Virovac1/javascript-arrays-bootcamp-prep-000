@@ -41,7 +41,7 @@ array.shift();
 return array;
 
 function removeElementFromBeginningOfArray(array){
-var newArray=array.slice(1);
+var newArray=array.slice(1,2);
   return newArrayrray;
 }
   
