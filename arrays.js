@@ -15,6 +15,6 @@ return newArray;
 //returns a modified version of original array
 function destructivelyAddElementToBeginningOfArray(array,element)
 array.unshift(element)
-return array;
+return array
 }
 */
