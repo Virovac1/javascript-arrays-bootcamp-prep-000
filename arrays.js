@@ -42,5 +42,6 @@ return array;
 
 function destructivelyRemoveElementFromBeginningOfArray(){
   
+}
   
 }
