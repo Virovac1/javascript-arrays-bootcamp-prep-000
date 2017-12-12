@@ -14,7 +14,7 @@ return newArray;
 //var moreArray=`${array}`.push(`${element}`);
 //returns a modified version of original array
 function destructivelyAddElementToBeginningOfArray(array,element)
-var array =${array}
-console.log(array);
+array.unshift(element)
+return array;
 }
 */
