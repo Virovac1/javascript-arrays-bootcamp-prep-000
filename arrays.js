@@ -42,6 +42,7 @@ return array;
 
 function destructivelyRemoveElementFromBeginningOfArray(array){
   array.slice()
+  array
 }
   
 }
