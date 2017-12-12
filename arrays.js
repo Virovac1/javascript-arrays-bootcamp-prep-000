@@ -8,9 +8,9 @@ var chocolateBars = ["snickers", "hundred grand","kitkat","skittles"];
 function addElementToBeginningOfArray (array,element){
 var1
 
-newArray=
+var newArray=
 
-return moreArray;
+return nArray;
 }
 
 //var moreArray=`${array}`.push(`${element}`);
