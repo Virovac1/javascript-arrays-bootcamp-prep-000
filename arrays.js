@@ -4,9 +4,9 @@ var chocolateBars = ["snickers", "hundred grand","kitkat","skittles"];
 /* The two functions add to beginning of array, both a both functions should add the element to the beginning of the array and then return the whole array. */
 
 //does not alter original array,returns a new one
-
 function addElementToBeginningOfArray (array,element){
-var1
+var var1= array 
+var var2= []  // this to put element into form of an array
 
 var newArray=
 
