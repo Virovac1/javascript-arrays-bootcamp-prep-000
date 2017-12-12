@@ -28,7 +28,8 @@ return newArray;
 }
 
 function destructivelyAddElementToEndOfArray (array,elemen){
-  
+array.push(element);
+return array 
 }
 
 
