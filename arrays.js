@@ -18,6 +18,7 @@ array.unshift(element);
 return array
 }
 
+}
  function addElementToEndOfArray(array,element){
 var arr1= array;
 var arr2= [element]; 
@@ -38,7 +39,6 @@ return array[index];
 function destructivelyRemoveElementFromBeginningOfArray(array){
 array.shift();
 return array;
-}
 
 function destructivelyRemoveElementFromBeginningOfArray(array){
   array.slice()
