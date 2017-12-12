@@ -6,10 +6,11 @@ var chocolateBars = ["snickers", "hundred grand","kitkat","skittles"];
 //does not alter original array,returns a new one
 
 function addElementToBeginningOfArray (array,element){
-var array = `${array}`;  // do I need quotes
-var moreArray=`${array}`.push(`${element}`);
+var moreArray = ['${element}'...`${array}`;  // do I need quotes
 return moreArray;
 }
+
+//var moreArray=`${array}`.push(`${element}`);
 
 
 //returns a modified version of original array
