@@ -10,7 +10,7 @@ var1
 
 var newArray=
 
-return nArray;
+return newArray;
 }
 
 //var moreArray=`${array}`.push(`${element}`);
